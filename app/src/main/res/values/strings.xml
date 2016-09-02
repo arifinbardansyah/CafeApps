@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cafe Apps</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="lokasi">Lokasi</string>
+</resources>
